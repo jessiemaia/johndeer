@@ -1,0 +1,8 @@
+#nav-logo {
+  display: flex;
+}
+
+#nav-logo img {
+  max-height: 4rem;
+  margin-right: 1rem;
+}
