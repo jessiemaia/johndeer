@@ -11,5 +11,22 @@
   background-image: url('/assets/johndeere2.jpg');
   min-height: 30vh;
   background-size: cover;
-  color: white;
+  color: pink;
+}
+
+#secondary-img {
+  min-height: 40vh;
+  margin: 1rem 0;
+}
+
+#img-1 {
+  background-image: url('/assets/johndeere3.jpg');
+  min-height: 30vh;
+  background-size: cover;
+}
+
+#img-2 {
+  background-image: url('/assets/johndeere4.jpg');
+  min-height: 30vh;
+  background-size: cover;
 }
