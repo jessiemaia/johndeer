@@ -9,6 +9,7 @@
 
 #main-img {
   background-image: url('/assets/johndeere2.jpg');
+  background-position: center;
   min-height: 30vh;
   background-size: cover;
   color: pink;
